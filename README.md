@@ -15,6 +15,7 @@ English  [简体中文](/README_CN.md "中文介绍")
 
 ## Usage
 ### 1.Base Usage
+<img src="https://raw.githubusercontent.com/supervons/ImageLibrary/master/react-native-echarts-liquidfill/baseDemo.png" alt="iOS基本使用" height="500" align="center" /><img src="https://github.com/supervons/ImageLibrary/blob/master/react-native-echarts-liquidfill/baseDemo_android.png?raw=true" alt="androd基本使用" height="500" align="center" />
 
 ```javascript
 import React from 'react';
@@ -53,6 +54,8 @@ export default function ChartsComponent() {
 }
 
 ```
+### 2.More Usage
+Please visit [Echarts-Gallery](https://www.makeapie.com/explore.html#sort=rank~timeframe=all~query=liquidfill~author=all)
 
 ## Props
 

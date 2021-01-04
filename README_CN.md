@@ -15,6 +15,7 @@
 
 ## 示例
 ### 1.基本示例
+<img src="https://raw.githubusercontent.com/supervons/ImageLibrary/master/react-native-echarts-liquidfill/baseDemo.png" alt="iOS基本使用" height="500" align="center" /><img src="https://github.com/supervons/ImageLibrary/blob/master/react-native-echarts-liquidfill/baseDemo_android.png?raw=true" alt="androd基本使用" height="500" align="center" />
 
 ```javascript
 import React from 'react';
@@ -53,6 +54,9 @@ export default function ChartsComponent() {
 }
 
 ```
+### 2.更多示例
+请访问 [Echarts开源图库大全](https://www.makeapie.com/explore.html#sort=rank~timeframe=all~query=liquidfill~author=all)
+
 
 ## 属性
 
