@@ -1,7 +1,7 @@
 
 # react-native-echarts-pro
-[![NPM Version](https://img.shields.io/npm/v/react-native-echarts-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
-[![NPM Version](https://img.shields.io/npm/dm/react-native-echarts-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
+[![NPM Version](https://img.shields.io/npm/v/react-native-echarts-liquidfill.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
+[![NPM Version](https://img.shields.io/npm/dm/react-native-echarts-liquidfill.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
 
 [English](/README.md "english readme")  简体中文
 ### 一款基于echarts 4.8 版本的水球图，同时也支持图表。
