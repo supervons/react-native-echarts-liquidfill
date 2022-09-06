@@ -1,3 +1,4 @@
+🚧Use [react-native-echarts-pro](https://supervons.github.io/react-native-echarts-pro-docs/docs/tutorial-basics/props#extension) instead.
 
 # react-native-echarts-liquidfill
 [![NPM Version](https://img.shields.io/npm/v/react-native-echarts-liquidfill.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)

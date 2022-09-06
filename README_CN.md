@@ -1,3 +1,4 @@
+🚧请使用 [react-native-echarts-pro](https://supervons.github.io/react-native-echarts-pro-docs/zh-cn/docs/tutorial-basics/props/#extension)
 
 # react-native-echarts-pro
 [![NPM Version](https://img.shields.io/npm/v/react-native-echarts-liquidfill.svg?style=flat)](https://www.npmjs.com/package/react-native-echarts-pro)
